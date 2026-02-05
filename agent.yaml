@@ -12,7 +12,7 @@ mcpServers:
       env:
         - MCP_TRANSPORT_MODE=http
         - HOST=0.0.0.0
-      registryURL: http://34.48.164.57:8080/
+      registryURL: https://api.agentregistry.a.solo-agentic-demo.com/
       registryServerName: pmuir/my-mcp-server
       registryServerVersion: 0.1.4
 updatedAt: 2026-02-05T14:10:46.178075-05:00
