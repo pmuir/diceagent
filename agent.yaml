@@ -14,5 +14,5 @@ mcpServers:
         - HOST=0.0.0.0
       registryURL: https://api.agentregistry.a.solo-agentic-demo.com/
       registryServerName: pmuir/my-mcp-server
-      registryServerVersion: 0.1.4
+      registryServerVersion: 0.1.0
 updatedAt: 2026-02-05T14:10:46.178075-05:00
